@@ -1,1 +1,3 @@
-Teste commit Curso EBACK
+Módulo GIT
+
+Criando uma nova branch
