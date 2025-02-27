@@ -1,3 +1,3 @@
-Módulo GIT
+Módulo GITHUB
 
-Criando uma nova branch
+Cirando branches e aprendendo sobre TAGS
